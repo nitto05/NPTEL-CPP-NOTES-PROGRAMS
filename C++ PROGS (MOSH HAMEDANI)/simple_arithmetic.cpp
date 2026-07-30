@@ -47,7 +47,7 @@ void constantVar()
     // std :: cout << a << " " << b;
 
 }
-
+// %%
 void swapByValue()
 {
     int a = 1;
